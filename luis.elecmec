@@ -1,0 +1,7 @@
+Proceso sin_titulo
+	Definir a, b, c ,d Como Entero
+	Escribir "Escribe 4 numeros";
+	Leer a, b, c, d;
+	Escribir d, c, b, a;
+FinProceso
+
