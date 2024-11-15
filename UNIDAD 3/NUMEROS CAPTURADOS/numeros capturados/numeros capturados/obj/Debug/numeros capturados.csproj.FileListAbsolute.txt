@@ -1,0 +1,5 @@
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS CAPTURADOS\numeros capturados\numeros capturados\obj\Debug\numeros capturados.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS CAPTURADOS\numeros capturados\numeros capturados\obj\Debug\numeros_capturados.Form1.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS CAPTURADOS\numeros capturados\numeros capturados\obj\Debug\numeros_capturados.Properties.Resources.resources
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS CAPTURADOS\numeros capturados\numeros capturados\obj\Debug\numeros capturados.csproj.GenerateResource.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS CAPTURADOS\numeros capturados\numeros capturados\obj\Debug\numeros capturados.csproj.CoreCompileInputs.cache
