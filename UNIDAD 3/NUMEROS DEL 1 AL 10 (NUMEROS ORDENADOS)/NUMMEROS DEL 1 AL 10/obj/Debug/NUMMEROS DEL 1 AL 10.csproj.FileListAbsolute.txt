@@ -1,0 +1,13 @@
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.csproj.AssemblyReference.cache
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS_DEL_1_AL_10.Form1.resources
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS_DEL_1_AL_10.Properties.Resources.resources
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.csproj.GenerateResource.cache
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.csproj.CoreCompileInputs.cache
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\bin\Debug\NUMMEROS DEL 1 AL 10.exe.config
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\bin\Debug\NUMMEROS DEL 1 AL 10.exe
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\bin\Debug\NUMMEROS DEL 1 AL 10.pdb
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.exe
+C:\Users\joard\source\repos\NUMMEROS DEL 1 AL 10\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.pdb
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS DEL 1 AL 10 (NUMEROS ORDENADOS)\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.csproj.AssemblyReference.cache
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS DEL 1 AL 10 (NUMEROS ORDENADOS)\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.exe
+C:\Users\joard\OneDrive\Documentos\PRACTICAS PROGRAMACION\UNIDAD 3\NUMEROS DEL 1 AL 10 (NUMEROS ORDENADOS)\NUMMEROS DEL 1 AL 10\obj\Debug\NUMMEROS DEL 1 AL 10.pdb
